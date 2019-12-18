@@ -6,6 +6,8 @@ body {
    
 }
 
+/* INTRO PAGE */
+
 #name {
     position: fixed;
     color: rgb(236, 232, 232);
@@ -23,23 +25,38 @@ a {
 
 }
 
-#bio {
-    
+/* NAVIGATION PAGE */
+
+
+
+/* BIO PAGE */
+
+.media {
+    margin: 200px;
+    border: 10px;
+    border-radius: 50%;
+    text-align: left;
     color: rgb(236, 232, 232);
 
 }
 
-form {
-    float: center;
-}
-
-.pure-menu-horizontal {
-    color: rgb(236, 232, 232);
-    padding: 300px;
-    font-size: x-large;
-
+img {
+    border-radius: 50%;
 }
 
 .pure-menu-link {
-    color: rgb(54, 53, 53)
+    text-decoration: none; 
+    color: rgb(236, 232, 232);
+}
+
+h5 {
+    text-align:;
+}
+
+/* PORTFOLIO */
+
+/* CONTACT */
+
+form {
+    float: center;
 }
