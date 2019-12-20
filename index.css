@@ -46,9 +46,6 @@ a {
     color: rgb(236, 232, 232);
 }
 
-h5 {
-    text-align:;
-}
 
 /* PORTFOLIO */
 
@@ -95,11 +92,15 @@ h5 {
     padding: 10px;
   }
   
+  .img {
+    border-radius: 0%;
+  }
   
   
 
 /* CONTACT */
 
-form {
-    float: center;
+.pure-form {
+    padding-top: 132px;
+    padding-left: 430px;
 }
