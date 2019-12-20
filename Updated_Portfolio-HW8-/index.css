@@ -40,9 +40,6 @@ a {
 
 }
 
-img {
-    border-radius: 50%;
-}
 
 .pure-menu-link {
     text-decoration: none; 
@@ -54,6 +51,52 @@ h5 {
 }
 
 /* PORTFOLIO */
+
+.main {
+    padding-top: 70px;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 25x;
+  }
+  
+  h3 {
+    font-family: 'Optima';
+    font-size: 15px;
+    color: white;
+    background-color: rgb(231, 192, 199);
+    text-align: center;
+  
+  }
+  
+  .row {
+    margin: 8px -16px;
+  }
+  
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  .row:after {
+    display: table;
+    clear: both;
+  }
+  
+  .content {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  
+  
 
 /* CONTACT */
 
