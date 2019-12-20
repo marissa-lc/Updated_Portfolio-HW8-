@@ -40,9 +40,6 @@ a {
 
 }
 
-img {
-    border-radius: 50%;
-}
 
 .pure-menu-link {
     text-decoration: none; 
@@ -56,6 +53,7 @@ h5 {
 /* PORTFOLIO */
 
 .main {
+    padding-top: 70px;
     max-width: 1000px;
     margin: auto;
   }
